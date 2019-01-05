@@ -1,0 +1,69 @@
+.header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 15px 0 15px 0;
+}
+
+h1 {
+    font-family: 'Viga', sans-serif;
+    font-size: 3em;
+}
+
+#formDiv {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 15px;
+}
+
+#addNew {
+    font-family: 'Viga', sans-serif;
+    font-size: .9em;
+}
+
+#giffyButtonsDiv {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-bottom: 15px;
+}
+
+.giffyButton {
+    font-family: 'Viga', sans-serif;
+    font-size: .85em;
+}
+
+#container {
+    display: flex;
+    justify-content: center;
+    
+}
+
+#displayGifs {
+    display: flex;
+    flex-wrap: wrap;
+    width: 70%;
+
+}
+
+.imgDiv {
+    margin: 5px;
+}
+
+h2 {
+    font-family: 'Viga', sans-serif;
+    font-size: 2em;
+    margin-bottom: 5px;
+    color: white;
+}
+
+p {
+    font-family: 'Viga', sans-serif;
+    font-size: 1em;
+    line-height: 1.35em;
+}
+button{
+    color:black;
+    background-color:teal;
+}
